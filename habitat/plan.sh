@@ -1,5 +1,5 @@
 pkg_name=sample-node-app
-pkg_origin=reuben1982
+pkg_origin=habitat-demo-1
 pkg_scaffolding="core/scaffolding-node"
 pkg_version="1.0.1"
 
